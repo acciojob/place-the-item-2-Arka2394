@@ -1,7 +1,8 @@
 
 /* Your CSS Code here. */
 .holder{
-	display:flex
+	display:flex;
+	justify-content:center;
 }
 .three{
 	width:50px;
